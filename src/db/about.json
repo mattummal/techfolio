@@ -1,0 +1,42 @@
+{
+	"name": "Prabhjyoth Mattummal",
+	"description": "Programmer with an MS and a BS in Computer Science. Currently interested in networks, systems, and graphics. Hobbies include long walks, working out, moviegoing, and coding. :)",
+	"links": [
+		{
+			"title": "E-Mail",
+			"value": "rab@outlook.sg",
+			"ref": "mailto:rab@outlook.sg",
+			"icon-path": "assets/icons/mail.svg"
+		},
+		{
+			"title": "LinkedIn",
+			"value": "Prabhjyoth Mattummal",
+			"ref": "https://www.linkedin.com/in/prabhjyoth/",
+			"icon-path": "assets/icons/linkedin.svg"
+		},
+		{
+			"title": "GitHub",
+			"value": "mattummal",
+			"ref": "https://github.com/mattummal",
+			"icon-path": "assets/icons/github.svg"
+		},
+		{
+			"title": "GitLab",
+			"value": "mattummal",
+			"ref": "https://gitlab.com/Mattummaljd",
+			"icon-path": "assets/icons/gitlab.svg"
+		},
+		{
+			"title": "Instagram",
+			"value": "jeh",
+			"ref": "https://instagram.com/jeh",
+			"icon-path": "assets/icons/instagram.svg"
+		},
+		{
+			"title": "SoundCloud",
+			"value": "exulgor",
+			"ref": "https://soundcloud.com/exulgor",
+			"icon-path": "assets/icons/soundcloud.svg"
+		}
+	]
+}
