@@ -10,7 +10,7 @@ const App: React.FC = (): JSX.Element => {
 	return (
 		<HelmetProvider>
 			<Helmet>
-				<title>Justin Thoreson</title>
+				<title>Prabhjyoth Mattummal</title>
 			</Helmet>
 			<ThemeProvider theme={theme}>
 				<Router />

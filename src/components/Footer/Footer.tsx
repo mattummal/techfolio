@@ -9,7 +9,7 @@ export const Footer: React.FC = (): JSX.Element => {
 	return (
 		<Box className={classes.footer}>
 			<Typography className={classes.copyright}>
-        Copyright © {year} Justin Thoreson
+        Copyright © {year} Prabhjyoth Mattummal
 			</Typography>
 		</Box>
 	);

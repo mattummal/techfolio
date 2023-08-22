@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
-    Personal Portfolio Website<br />
-    <a href="https://exulgor.com">exulgor.com</a>
+    Personal Techfolio<br />
+    <a href="https://prabhjyoth.com">prabhjyoth.com</a>
   </h1>
   <img src="./assets/alien-lime.png" style="width: 25vw;" alt="alien"/><br />
   <img src="./assets/exulgor-drawing.png" style="width: 25vw;" alt="exulgor"/>
@@ -13,10 +13,10 @@
 ![Stars](https://img.shields.io/github/stars/thoresonjd/react-portfolio?logo=github&style=social)
 
 ## Created by
-Justin Thoreson a.k.a. Exulgor
+Exulgor
 
 ## Description
-My personal portfolio website portraying elements of my background including education, experience, and projects.
+My personal techfolio portraying elements of my background including education, experience, and projects.
 
 ## Style 
 The scanlines and flickering provide the illusion that the website is being displayed on a retro cathode-ray tube monitor. Furthermore, the colors lime, black, and white are influenced by the appearences of many command lines. The font, transitions, and animations are meant to convey a style akin to that of a video game; the background particles specifically liven the video game style by achieving an outer space effect.
@@ -36,5 +36,3 @@ The scanlines and flickering provide the illusion that the website is being disp
 ![ESLint](https://camo.githubusercontent.com/0fb62d704898141bf5a5dfb5acc68901ecf35372bccde7bb9e5ca0164fb6e38d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65736c696e742d3341333344313f7374796c653d666f722d7468652d6261646765266c6f676f3d65736c696e74266c6f676f436f6c6f723d7768697465)
 ![GoDaddy](https://img.shields.io/badge/GoDaddy-1adddb?style=for-the-badge)
 
-## Usage
-Permission is granted, to any that seek usage of this software, to fork and modify it under the condition that the creator, myself, Justin Thoreson, shall be recognized through proper attribution. Please cite my name and provide a reference to the original copy of this software in the formal documentation. See the [license](LICENSE) for further details. Thanks! :)
