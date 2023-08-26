@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/techfolio/static/css/main.f0be9af0.css",
-    "main.js": "/techfolio/static/js/main.d797c1fb.js",
+    "main.js": "/techfolio/static/js/main.23adac69.js",
     "static/js/787.a2cb61a6.chunk.js": "/techfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/this-is-fine.png": "/techfolio/static/media/this-is-fine.53b667ffefea856019e6.png",
     "static/media/justin-jitter.gif": "/techfolio/static/media/justin-jitter.f9ba1359ccf0f935b0a6.gif",
@@ -21,11 +21,11 @@
     "static/media/soundcloud.svg": "/techfolio/static/media/soundcloud.7e3dae6a08c10b3153ca.svg",
     "index.html": "/techfolio/index.html",
     "main.f0be9af0.css.map": "/techfolio/static/css/main.f0be9af0.css.map",
-    "main.d797c1fb.js.map": "/techfolio/static/js/main.d797c1fb.js.map",
+    "main.23adac69.js.map": "/techfolio/static/js/main.23adac69.js.map",
     "787.a2cb61a6.chunk.js.map": "/techfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0be9af0.css",
-    "static/js/main.d797c1fb.js"
+    "static/js/main.23adac69.js"
   ]
 }
