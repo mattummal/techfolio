@@ -1,10 +1,8 @@
 <div align="center">
   <h1>
     Personal Techfolio<br />
-    <a href="https://prabhjyoth.com">prabhjyoth.com</a>
+    <a href="https://mattummal.com">mattummal.com</a>
   </h1>
-  <img src="./assets/alien-lime.png" style="width: 25vw;" alt="alien"/><br />
-  <img src="./assets/exulgor-drawing.png" style="width: 25vw;" alt="exulgor"/>
 </div>
 
 [![pages-build-deployment](https://github.com/thoresonjd/react-portfolio/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/thoresonjd/react-portfolio/actions/workflows/pages/pages-build-deployment)
