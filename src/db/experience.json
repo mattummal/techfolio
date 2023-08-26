@@ -1,9 +1,9 @@
 [
 	{
-		"position": "Software Engineer",
-		"employer": "Votegrity",
-		"type": "Part-time",
-		"location": "Remote",
+		"position": "Senior Data Engineer",
+		"employer": "Kantar",
+		"type": "Full-time",
+		"location": "Hybrid",
 		"from": "July 2022",
 		"to": "Present",
 		"decription": "",
@@ -15,9 +15,9 @@
 		]
 	},
 	{
-		"position": "Software Engineer Intern",
-		"employer": "T-Mobile",
-		"type": "Internship",
+		"position": "Data Architect",
+		"employer": "Kantar",
+		"type": "Full-time",
 		"location": "Bellevue, WA",
 		"from": "June 2022",
 		"to": "May 2023",
@@ -27,36 +27,6 @@
 			"Configured multi-project CI/CD pipeline via YAML that helps several teams test APIs for authorization",
 			"Submitted patent application for API assessment tool",
 			"TypeScript, NodeJS, SQL, Postman, VS Code, GitLab"
-		]
-	},
-	{
-		"position": "Tutor, TA, Grader - CSSE",
-		"employer": "Seattle University",
-		"type": "Part-time",
-		"location": "Seattle, WA",
-		"from": "June 2021",
-		"to": "June 2022",
-		"decription": "",
-		"bullet-points": [
-			"Algorithms and programming boot camp courses",
-			"Tutored and graded 100+ students, formulated grading rubrics alongside several other TAs",
-			"Provided constructive feedback to 100+ students via tutoring and grading",
-			"Java, IntelliJ, Vim, Emacs, GitHub"
-		]
-	},
-	{
-		"position": "Sales Associate",
-		"employer": "The Home Depot",
-		"type": "Seasonal",
-		"location": "Snohomish, WA",
-		"from": "July 2020",
-		"to": "May 2022",
-		"decription": "",
-		"bullet-points": [
-			"Front-line service and store maintainability",
-			"Interacted with customers and vendors, fulfilled online orders, restocked inventory",
-			"Provided recognizable customer service and consistent help to dozens of coworkers",
-			"Certifications: plumbing department, electric ladder, pipe threader, radial arm saw, vertical panel saw"
 		]
 	}
 ]

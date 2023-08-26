@@ -17,13 +17,13 @@
 		{
 			"title": "GitHub",
 			"value": "mattummal",
-			"ref": "https://github.com/mattummal",
+			"ref": "https://github.com/mattummal/",
 			"icon-path": "assets/icons/github.svg"
 		},
 		{
 			"title": "GitLab",
 			"value": "mattummal",
-			"ref": "https://gitlab.com/Mattummaljd",
+			"ref": "https://gitlab.com/mattummal/",
 			"icon-path": "assets/icons/gitlab.svg"
 		},
 		{
@@ -35,7 +35,7 @@
 		{
 			"title": "SoundCloud",
 			"value": "exulgor",
-			"ref": "https://soundcloud.com/exulgor",
+			"ref": "https://soundcloud.com/",
 			"icon-path": "assets/icons/soundcloud.svg"
 		}
 	]

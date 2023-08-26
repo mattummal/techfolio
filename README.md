@@ -12,8 +12,39 @@
 [![License](https://img.shields.io/github/license/thoresonjd/react-portfolio)](LICENSE)
 ![Stars](https://img.shields.io/github/stars/thoresonjd/react-portfolio?logo=github&style=social)
 
-## Created by
-Exulgor
+### Install and initialise the source code.
+
+```
+npm install or yard install
+npm start
+```
+
+### If not already installed
+
+```
+npm install gh-pages --save-dev
+```
+
+Add the following to your `scripts` object to the `package.json` file.
+```
+"scripts": {
++   "predeploy": "npm run build",
++   "deploy": "gh-pages -d build",
+```
+
+### Create or edit a production bundle.
+
+```
+npm run build or yarn build
+```
+
+
+### At the end, deploy the website
+
+```
+npm run deploy
+```
+
 
 ## Description
 My personal techfolio portraying elements of my background including education, experience, and projects.
