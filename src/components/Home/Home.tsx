@@ -1,7 +1,7 @@
 import React from 'react';
 import { Zoom } from '@mui/material';
 import { useStyles } from '../../theme';
-import name from '../../assets/gifs/justin-jitter.gif';
+import name from '../../assets/gifs/pm-jitter.gif';
 
 export const Home: React.FC = (): JSX.Element => {
 	const classes: any = useStyles();

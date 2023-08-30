@@ -4,8 +4,8 @@ import { Link } from 'react-router-dom';
 import { Typography, Avatar, List, ListItem, Icon, Link as MuiLink, Zoom, Fade } from '@mui/material';
 import { useStyles } from '../../theme';
 import avatar from '../../assets/images/alien-lime.png';
-import name from '../../assets/gifs/justin-jitter.gif';
-import alias from '../../assets/gifs/exulgor-jitter.gif';
+import name from '../../assets/gifs/pm-jitter.gif';
+import alias from '../../assets/gifs/de-jitter.gif';
 import about from '../../db/about.json';
 
 export const About: React.FC = (): JSX.Element => {

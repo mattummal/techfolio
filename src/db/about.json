@@ -4,8 +4,8 @@
 	"links": [
 		{
 			"title": "E-Mail",
-			"value": "rab@outlook.sg",
-			"ref": "mailto:rab@outlook.sg",
+			"value": "rab@mattummal.com",
+			"ref": "mailto:rab@mattummal.com",
 			"icon-path": "assets/icons/mail.svg"
 		},
 		{
@@ -31,12 +31,6 @@
 			"value": "jeh",
 			"ref": "https://instagram.com/jeh",
 			"icon-path": "assets/icons/instagram.svg"
-		},
-		{
-			"title": "SoundCloud",
-			"value": "exulgor",
-			"ref": "https://soundcloud.com/",
-			"icon-path": "assets/icons/soundcloud.svg"
 		}
 	]
 }

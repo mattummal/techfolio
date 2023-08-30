@@ -1,6 +1,6 @@
 [
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 1420",
 		"name": "Programming & Problem Solving I",
 		"quarter": "Fall",
@@ -8,7 +8,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 1430",
 		"name": "Programming & Problem Solving II",
 		"quarter": "Winter",
@@ -16,7 +16,7 @@
 		"grade": "A-"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 2430",
 		"name": "Data Structures",
 		"quarter": "Spring",
@@ -24,7 +24,7 @@
 		"grade": "A-"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 2500",
 		"name": "Computer Organization",
 		"quarter": "Fall",
@@ -32,7 +32,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 2600",
 		"name": "Foundations of Computer Science",
 		"quarter": "Spring",
@@ -40,7 +40,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 3200",
 		"name": "Object-Oriented Development",
 		"quarter": "Fall",
@@ -48,7 +48,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 3300",
 		"name": "Fundamentals of Databases",
 		"quarter": "Spring",
@@ -56,7 +56,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 3400",
 		"name": "Languages & Computation",
 		"quarter": "Spring",
@@ -64,7 +64,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 3500",
 		"name": "Computing Systems",
 		"quarter": "Spring",
@@ -72,7 +72,7 @@
 		"grade": "A-"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 4100",
 		"name": "Design & Analysis of Algorithms",
 		"quarter": "Winter",
@@ -80,7 +80,7 @@
 		"grade": "A-"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 4240",
 		"name": "Software as a Service",
 		"quarter": "Winter",
@@ -88,7 +88,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 4330",
 		"name": "Big Data Analytics",
 		"quarter": "Winter",
@@ -96,7 +96,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 4800",
 		"name": "Technical Communication & Project Management",
 		"quarter": "Fall",
@@ -104,7 +104,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 4870",
 		"name": "Software Engineering & Project Development I",
 		"quarter": "Fall",
@@ -112,7 +112,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 4880",
 		"name": "Software Engineering & Project Development II",
 		"quarter": "Winter",
@@ -120,7 +120,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 4890",
 		"name": "Software Engineering & Project Development III",
 		"quarter": "Spring",
@@ -128,7 +128,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 5200",
 		"name": "Software Architecture & Design",
 		"quarter": "Spring",
@@ -136,7 +136,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 5210",
 		"name": "Software Testing & Debugging",
 		"quarter": "Spring",
@@ -144,7 +144,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 5300",
 		"name": "Physical Database Design & Optimization",
 		"quarter": "Winter",
@@ -152,7 +152,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 5510",
 		"name": "Computer Networks",
 		"quarter": "Spring",
@@ -160,7 +160,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 5520",
 		"name": "Distributed Systems",
 		"quarter": "Fall",
@@ -168,7 +168,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 5600",
 		"name": "Parallel Computing",
 		"quarter": "Winter",
@@ -176,7 +176,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 5610",
 		"name": "Artificial Intelligence",
 		"quarter": "Fall",
@@ -184,7 +184,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 5700",
 		"name": "Computer Graphics",
 		"quarter": "Fall",
@@ -192,7 +192,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 5800",
 		"name": "Ethics & Professional Issues in Computing",
 		"quarter": "Winter",
@@ -200,7 +200,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 5890",
 		"name": "Seminar",
 		"quarter": "Fall",
@@ -208,7 +208,7 @@
 		"grade": "A"
 	},
 	{
-		"institution": "Seattle University",
+		"institution": "University of Delhi",
 		"number": "CPSC 5950",
 		"name": "Internship",
 		"quarter": "Summer",

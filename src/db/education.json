@@ -1,15 +1,15 @@
 [
 	{
 		"level": "Graduate",
-		"degree": "Master of Science",
+		"degree": "M.Sc. (Hons.)",
 		"majors": [
-			"Computer Science"
+			"Information Technology"
 		],
-		"minors": [],
-		"institution": "Seattle University",
-		"location": "Seattle, WA",
-		"from": "June 2022",
-		"to": "June 2023",
+		"minors": ["Data Engineering"],
+		"institution": "xxx University",
+		"location": "xxx, IN",
+		"from": "July 2023",
+		"to": "August 2025",
 		"status": "graduated",
 		"gpa": "4.0",
 		"bullet-points": [
@@ -25,13 +25,13 @@
 		"level": "Undergraduate",
 		"degree": "Bachelor of Science",
 		"majors": [
-			"Computer Science"
+			"Applied Computer Science"
 		],
 		"minors": [
 			"Data Science"
 		],
-		"institution": "Seattle University",
-		"location": "Seattle, WA",
+		"institution": "xxx University",
+		"location": "xxx, IN",
 		"from": "September 2019",
 		"to": "June 2022",
 		"status": "graduated",
@@ -47,33 +47,18 @@
 	},
 	{
 		"level": "Undergraduate",
-		"degree": "",
-		"majors": [],
-		"minors": [],
-		"institution": "Everett Community College",
-		"location": "Everett, WA",
+		"degree": "B. (Hons.)",
+		"majors": ["Management Studies"],
+		"minors": ["Financial Engineering"],
+		"institution": "University of Delhi",
+		"location": "New Delhi, IN",
 		"from": "September 2017",
-		"to": "June 2019",
+		"to": "July 2024",
 		"status": "transfered",
 		"gpa": "3.74",
 		"bullet-points": [
 			"Running Start full-time as a high school upperclassman",
-			"Transferred credits to Seattle University"
-		]
-	},
-	{
-		"level": "High School",
-		"degree": "High School Diploma",
-		"majors": [],
-		"minors": [],
-		"institution": "Granite Falls High School",
-		"location": "Granite Falls, WA",
-		"from": "September 2015",
-		"to": "June 2019",
-		"status": "graduated",
-		"gpa": "3.71",
-		"bullet-points": [
-			"Running Start full-time as a high school upperclassman"
+			"Transferred credits to Delhi University"
 		]
 	}
 ]
