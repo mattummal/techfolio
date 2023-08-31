@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     Personal Techfolio<br />
-    <a href="https://mattummal.com">mattummal.com</a>
+    <a href="https://techfolio.mattummal.com/">techfolio.mattummal.com</a>
   </h1>
 </div>
 
